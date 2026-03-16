@@ -65,17 +65,6 @@ This project uses **clo-author** — a multi-agent research system built on Clau
 | writer | writer-critic | Manuscript drafting |
 | storyteller | storyteller-critic | Presentation design |
 
-## Key Skills
-
-| Command | Description |
-|---------|-------------|
-| `/discover --lit [topic]` | Literature review |
-| `/discover --data` | Data source identification |
-| `/strategize` | Identification strategy design |
-| `/analyze` | End-to-end data analysis |
-| `/write [section]` | Draft paper sections |
-| `/review` | Simulated peer review |
-
 ## Current Status
 
 | Component | File | Status |
